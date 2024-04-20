@@ -18,16 +18,16 @@ hero:
 
 features:
   - icon:
-      src: "$withBase(/assets/appicon_sb_2cs.svg)
+      src: "$withBase('/assets/appicon_sb_2cs.png')"
     title: SB Maps
     details: Find about the chests, boxes and structure of all the maps
     link: /sb/maps
   - icon:
-      src: "$withBase(/assets/appicon_sb_2csbw.svg)
+      src: "$withBase('/assets/appicon_sb_2csbw.png')"
     title: SB Troops
     details: Compare all the different units to build the best squad
   - icon:
-      src: "$withBase(/assets/appicon_sb_2csbw.svg)
+      src: "$withBase('/assets/appicon_sb_2csbw.png')"
     title: SB Enemies
     details: Stats for all the enemies and bosses you'll find
 ---
