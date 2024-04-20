@@ -1,20 +1,14 @@
 ---
+# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
   name: "Alpe"
-  text: "Stats and tools"
-  tagline: for Clash Royale and Squad Busters
+  text: "Squad Up!"
+  tagline: with unique stats for your battles.
   image:
-    src: /assets/logo_alpe_4.png
+    src: /assets/Squad_Logo_Original.png
     alt: Alpe
-  actions:
-    - theme: brand
-      text: Clash Royale
-      link: /cr/index
-    - theme: brand
-      text: Squad Busters
-      link: /sb/index
 
 features:
   - icon:
@@ -34,10 +28,11 @@ features:
 
 <style>
 :root {
-  --vp-home-hero-name-color: transparent;
-  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #bd34fe 30%, #41d1ff);
 
-  --vp-home-hero-image-background-image: linear-gradient(-45deg, #bd34fe 50%, #47caff 50%);
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: -webkit-linear-gradient(70deg, #b71684 10%, #bdf4f8);
+
+  --vp-home-hero-image-background-image: linear-gradient(10deg, #b71684 50%, #bdf4f8 20%);
   --vp-home-hero-image-filter: blur(44px);
 }
 
