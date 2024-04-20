@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Alpe"
   text: "Squad Up!"
-  tagline: with unique stats for your battles.
+  tagline: "with unique stats for your battles."
   image:
     src: https://eu-north-1.console.aws.amazon.com/s3/object/alpe1?region=eu-north-1&bucketType=general&prefix=assets/Squad_Logo_Original.png
     alt: Alpe
