@@ -6,7 +6,7 @@ hero:
   text: "Stats and tools"
   tagline: for Clash Royale and Squad Busters
   image:
-    src: "$withBase('/assets/logo_alpe_4.png')"
+    src: /alpe/assets/logo_alpe_4.png
     alt: Alpe
   actions:
     - theme: brand
@@ -18,16 +18,16 @@ hero:
 
 features:
   - icon:
-      src: "$withBase('/assets/appicon_sb_2cs.png')"
+      src: /alpe/assets/appicon_sb_2cs.png
     title: SB Maps
     details: Find about the chests, boxes and structure of all the maps
     link: /sb/maps
   - icon:
-      src: "$withBase('/assets/appicon_sb_2csbw.png')"
+      src: /alpe/assets/appicon_sb_2csbw.png
     title: SB Troops
     details: Compare all the different units to build the best squad
   - icon:
-      src: "$withBase('/assets/appicon_sb_2csbw.png')"
+      src: /alpe/assets/appicon_sb_2csbw.png
     title: SB Enemies
     details: Stats for all the enemies and bosses you'll find
 ---
