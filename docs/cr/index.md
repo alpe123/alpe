@@ -6,7 +6,7 @@ hero:
   text: "Evolve Now!"
   tagline: with unique stats for your battles.
   image:
-    src: /assets/cr_logo.png
+    src: https://eu-north-1.console.aws.amazon.com/s3/object/alpe1?region=eu-north-1&bucketType=general&prefix=assets/cr_logo.png
     alt: Alpe
 ---
 
