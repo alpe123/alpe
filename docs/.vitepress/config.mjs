@@ -2,28 +2,39 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "My Awesome Project",
-  description: "A VitePress Site",
+  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
+  lang: 'en-US',
+  title: "Alpe",
+  description: "Stats and tools",
   base: "/alpe/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'SB', link: '/sb/' },
+      { text: 'CR', link: '/cr/' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Squad Busters',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Maps', link: '/sb/maps' },
+          { text: 'Troops', link: '/sb_troops' },
+          { text: 'Enemies', link: '/sb_enemies' }
         ]
+      },
+      {
+        text: 'Clash Royale',
+        items: []
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'twitter', link: 'https://twitter.com/Alpe123_CR' },
+      // { icon: 'reddit', link: 'https://www.reddit.com/user/alpe123/' },
+      { icon: 'github', link: 'https://github.com/alpe123' }
     ]
   }
 })
+
