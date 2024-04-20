@@ -18,12 +18,12 @@ hero:
 
 features:
   - icon:
-      src: 'assets/appicon_sb_2cs.png'
+      src: "@/images/appicon_sb_2cs.png"
     title: SB Maps
     details: Find about the chests, boxes and structure of all the maps
     link: /sb/maps
   - icon:
-      src: 'assets/appicon_sb_2csbw.png'
+      src: ./assets/appicon_sb_2csbw.png
     title: SB Troops
     details: Compare all the different units to build the best squad
   - icon:
