@@ -4,55 +4,44 @@ outline: understand your surroundings
 
 # Squad Busters Maps
 
-The soft launch is releasing 4 different worlds, and each of them has 3 different maps.
+This is a quick list of all the available maps.
 
-On top of those, the Green World maps have variants to allow for more complex mechanics. Examples of these are carrots for Mavis and tool spawns for Bea and Tank.
+## [Green World](/sb/maps_w1.html)
 
-[[toc]]
+### [Buster Valley](/sb/maps_w1.html#buster-valley)
 
-## Green World
+### [Rumble Meadow](/sb/maps_w1.html#rumble-meadow)
 
-### Buster Valley
+### [Twisting Trails](/sb/maps_w1.html#twisting-trails)
 
-![Green World Buster Valley](/assets/sb_maps_1_g_1.png)
+## [Desert World](/sb/maps_w2.html)
 
-### Rumble Meadow
+### [Dusty Badlands](/sb/maps_w2.html#dusty-badlands)
 
+### [Troublesome Gulch](/sb/maps_w2.html#troublesome-gulch)
 
-### Twisting Trails
+### [The Sand Pit](/sb/maps_w2.html#the-sand-pit)
 
+## [Royal World](/sb/maps_w3.html)
 
-## Desert World
+### [Proving Grounds](/sb/maps_w3.html#proving-grounds)
 
-### Dusty Badlands
+### [Royal Rumbleyard](/sb/maps_w3.html#royal-rumbleyard)
 
-### Troublesome Gulch
+### [Steel Gauntlet](/sb/maps_w3.html#steel-gauntlet)
 
-### The Sand Pit
+## [Beach World](/sb/maps_w4.html)
 
-## Royale World
+### [Invasion Island](/sb/maps_w4.html#invasion-island)
 
-### Proving Grounds
+### [Waterway Blitz](/sb/maps_w4.html#waterway-blitz)
 
-### Royal Rumbleyard
+### [Scavenger's Shore](/sb/maps_w4.html#scavengers-shore)
 
-### Steel Gauntlet
+## [Green World (Endgame)](/sb/maps_w1e.html)
 
-## Beach World
+### [Buster Valley](/sb/maps_w1e.html#buster-valley)
 
-### Invasion Island
+### [Rumble Meadow](/sb/maps_w1e.html#rumble-meadow)
 
-### Waterway Blitz
-
-### Scavenger's Shore
-
-## Green World (Endgame)
-
-### Buster Valley
-
-![Green World Buster Valley](/assets/sb_maps_1_g_1.png)
-
-### Rumble Meadow
-
-
-### Twisting Trails
+### [Twisting Trails](/sb/maps_w1e.html#twisting-trails)

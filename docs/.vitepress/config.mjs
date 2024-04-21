@@ -30,7 +30,8 @@ export default defineConfig({
               { text: 'Green World (Endgame)', link: '/sb/maps_w1e' }
             ]
           },
-          { text: 'Troops (soon)'},
+          { text: 'Troops',
+            link: '/sb/troops_cards'},
           { text: 'Enemies (soon)'}
         ]
       },

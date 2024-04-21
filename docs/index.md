@@ -23,9 +23,10 @@ features:
     details: Find about the chests, boxes and structure of all the maps
     link: /sb/maps
   - icon:
-      src: /appicon_sb_2csbw.png
+      src: /appicon_sb_2cs.png
     title: SB Troops
     details: Compare all the different units to build the best squad
+    link: /sb/troops_cards
   - icon:
       src: /appicon_sb_2csbw.png
     title: SB Enemies
