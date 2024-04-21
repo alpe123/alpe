@@ -18,14 +18,25 @@ export default defineConfig({
     sidebar: [
       {
         text: 'Squad Busters',
+        link: '/sb/',
         items: [
-          { text: 'Maps', link: '/sb/maps' },
-          { text: 'Troops', link: '/sb_troops' },
-          { text: 'Enemies', link: '/sb_enemies' }
+          { text: 'Maps',
+            link: '/sb/maps',
+            items: [
+              { text: 'Green World', link: '/sb/maps_w1' },
+              { text: 'Desert World', link: '/sb/maps_w2' },
+              { text: 'Royal World', link: '/sb/maps_w3' },
+              { text: 'Beach World', link: '/sb/maps_w4' },
+              { text: 'Green World (Endgame)', link: '/sb/maps_w1e' }
+            ]
+          },
+          { text: 'Troops (soon)'},
+          { text: 'Enemies (soon)'}
         ]
       },
       {
-        text: 'Clash Royale',
+        text: 'Clash Royale (soon)',
+        link: '/cr/',
         items: []
       }
     ],

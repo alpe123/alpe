@@ -3,21 +3,21 @@ outline: understand your surroundings
 ---
 
 
-# Desert World
+# Beach World
 
 [[toc]]
 
-This is second world, played from Journey Level 15 up to 35.
+This is fourth and last world before Squad League, played from Journey Level 60 up to 90.
 
 
-## Dusty Badlands
+## Invasion Island
 
-![Desert World Dusty Badlands](/assets/sb_maps_1_d_1.png)
+![Beach World Invasion Island](/assets/sb_maps_1_b_1.png)
 
-## Troublesome Gulch
+## Waterway Blitz
 
-![Desert World Troublesome Gulch](/assets/sb_maps_1_d_2.png)
+![Beach World Waterway Blitz](/assets/sb_maps_1_b_2.png)
 
-## The Sand Pit
+## Scavenger's Shore
 
-![Desert World Twisting Trails](/assets/sb_maps_1_d_3.png)
+![Beach World Scavenger's Shore](/assets/sb_maps_1_b_3.png)

@@ -3,25 +3,25 @@
 layout: home
 
 hero:
-  name: "Alpe"
-  text: "Squad Up!"
-  tagline: "with unique stats for your battles."
+  name: Alpe
+  text: Squad Up!
+  tagline: with unique stats for your battles.
   image:
-    src: https://eu-north-1.console.aws.amazon.com/s3/object/alpe1?region=eu-north-1&bucketType=general&prefix=assets/Squad_Logo_Original.png
+    src: /Squad_Logo_Original.png
     alt: Alpe
 
 features:
   - icon:
-      src: https://eu-north-1.console.aws.amazon.com/s3/object/alpe1?region=eu-north-1&bucketType=general&prefix=assets/appicon_sb_2cs.png
+      src: /appicon_sb_2cs.png
     title: SB Maps
     details: Find about the chests, boxes and structure of all the maps
     link: /sb/maps
   - icon:
-      src: https://eu-north-1.console.aws.amazon.com/s3/object/alpe1?region=eu-north-1&bucketType=general&prefix=assets/appicon_sb_2csbw.png
+      src: /appicon_sb_2csbw.png
     title: SB Troops
     details: Compare all the different units to build the best squad
   - icon:
-      src: https://eu-north-1.console.aws.amazon.com/s3/object/alpe1?region=eu-north-1&bucketType=general&prefix=assets/appicon_sb_2csbw.png
+      src: /appicon_sb_2csbw.png
     title: SB Enemies
     details: Stats for all the enemies and bosses you'll find
 ---

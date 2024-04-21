@@ -2,11 +2,11 @@
 layout: home
 
 hero:
-  name: "Alpe"
-  text: "Evolve Now!"
-  tagline: "with unique stats for your battles."
+  name: Alpe
+  text: Evolve Now!
+  tagline: with unique stats for your battles.
   image:
-    src: "/assets/cr_logo.png"
+    src: /cr_logo.png
     alt: Alpe
 ---
 

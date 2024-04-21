@@ -7,7 +7,7 @@ outline: understand your surroundings
 
 [[toc]]
 
-This is first world, played from Journey Level 1 up to 15.
+This is the first world, played from Journey Level 1 up to 15.
 
 > [!NOTE]
 > The basic Green World maps don't include carrots for Mavis or tools for Bea and Tank. These tiles have been added in the [Green World Endgame maps](/sb/maps_w1e).

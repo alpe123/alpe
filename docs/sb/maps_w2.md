@@ -7,7 +7,7 @@ outline: understand your surroundings
 
 [[toc]]
 
-This is second world, played from Journey Level 15 up to 35.
+This is the second world, played from Journey Level 15 up to 35.
 
 
 ## Dusty Badlands

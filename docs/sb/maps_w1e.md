@@ -3,21 +3,21 @@ outline: understand your surroundings
 ---
 
 
-# Desert World
+# Green World (Endgame)
 
 [[toc]]
 
-This is second world, played from Journey Level 15 up to 35.
+These are maps of the first world, but with adjustments to include items that can't be found at the start of the Squad Journey.
 
 
-## Dusty Badlands
+## Buster Valley
 
-![Desert World Dusty Badlands](/assets/sb_maps_1_d_1.png)
+![Green World (Endgame) Buster Valley](/assets/sb_maps_1_ge_1.png)
 
-## Troublesome Gulch
+## Rumble Meadow
 
-![Desert World Troublesome Gulch](/assets/sb_maps_1_d_2.png)
+![Green World (Endgame) Rumble Meadow](/assets/sb_maps_1_ge_2.png)
 
-## The Sand Pit
+## Twisting Trails
 
-![Desert World Twisting Trails](/assets/sb_maps_1_d_3.png)
+![Green World (Endgame) Twisting Trails](/assets/sb_maps_1_ge_3.png)
