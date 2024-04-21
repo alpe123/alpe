@@ -9,8 +9,6 @@ This is a list of all the characters available for your squad, sorted by DPS in 
 > [!NOTE]
 > DPS is important, but just a factor in the strength of a unit. This doesn't include very relevant details like range, area damage, abilities...
 
-[[toc]]
-
 ____
 
 
@@ -18,10 +16,10 @@ Each of the following troop cards display basic stats in the following way:
 
 ![Troop Card Demo](/assets/sb_character_card_demo.png)
 
-- [HP] Hit Points: health of a troop.
-- [DPS] Damage Per Second: average damage dealt by a troop in a single second.
-- [HT] Hit Time: average time needed for each attack.
-- [DPH] Damage Per Hit: damage dealt with each attack.
+- **[HP] Hit Points**: health of a troop.
+- **[DPS] Damage Per Second**: average damage dealt by a troop in a single second.
+- **[HT] Hit Time**: average time needed for each attack.
+- **[DPH] Damage Per Hit**: damage dealt with each attack.
 
 ## 1. Mega Chicken
 
