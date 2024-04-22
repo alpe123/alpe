@@ -8,6 +8,8 @@
     .heatMap th {
         word-wrap: break-word;
         text-align: left;
+        color: white;
+        background: #202127;
     }
     .heatMap tr:nth-child(1) { background: rgba(200, 0, 200, 0.3); }
     .heatMap tr:nth-child(2) { background: rgba(200, 0, 200, 0.3); }

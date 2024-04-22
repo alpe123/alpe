@@ -28,9 +28,10 @@ features:
     details: Compare all the different units to build the best squad
     link: /sb/troops
   - icon:
-      src: /appicon_sb_2csbw.png
-    title: SB Enemies
+      src: /appicon_sb_2cs.png
+    title: SB Monsters
     details: Stats for all the enemies and bosses you'll find
+    link: /sb/monsters
 ---
 
 <style>

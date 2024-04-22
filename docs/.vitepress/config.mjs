@@ -10,7 +10,7 @@ export default defineConfig({
   base: "/alpe/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: "/logo_alpe_9.png",
+    logo: "/logo_alpe_9_c.png",
     siteTitle: "Alpe",
     nav: [
       { text: 'Home', link: '/' },
@@ -38,10 +38,19 @@ export default defineConfig({
             items: [
               { text: 'Info Cards', link: '/sb/troops_cards' },
               { text: 'Sorted by DPS', link: '/sb/troops_by_dps' },
-              { text: 'Sorted by HP', link: '/sb/troops_by_hp' }
+              { text: 'Sorted by HP', link: '/sb/troops_by_hp' },
+              { text: 'Fusion Multipliers', link: '/sb/troops_fusion_multipliers' }
             ]
           },
-          { text: 'Enemies (soon)'}
+          { text: 'Monsters',
+          link: '/sb/monsters',
+          items: [
+            { text: 'Small', link: '/sb/monsters_small.html' },
+            { text: 'Medium', link: '/sb/monsters_medium.html' },
+            { text: 'Big', link: '/sb/monsters_big.html' },
+            { text: 'Bosses', link: '/sb/monsters_bosses.html' }
+          ]
+          }
         ]
       },
       {
