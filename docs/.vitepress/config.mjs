@@ -5,10 +5,13 @@ export default defineConfig({
   head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
   lang: 'en-US',
   title: "Alpe",
+  logo: "/logo_alpe_4.png",
   description: "Stats and tools",
   base: "/alpe/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: "/logo_alpe_9.png",
+    siteTitle: "Alpe",
     nav: [
       { text: 'Home', link: '/' },
       { text: 'SB', link: '/sb/' },
