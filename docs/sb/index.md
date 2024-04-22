@@ -20,7 +20,7 @@ features:
       src: /appicon_sb_2cs.png
     title: SB Troops
     details: Compare all the different units to build the best squad
-    link: /sb/troops_cards
+    link: /sb/troops
   - icon:
       src: /appicon_sb_2csbw.png
     title: SB Enemies

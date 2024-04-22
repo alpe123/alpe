@@ -21,6 +21,9 @@ Each of the following troop cards display basic stats in the following way:
 - **[HT] Hit Time**: average time needed for each attack.
 - **[DPH] Damage Per Hit**: damage dealt with each attack.
 
+____
+
+
 ## 1. Mega Chicken
 
 ![Mega Chicken](/assets/sb_character_card_1_mega-chicken.png)

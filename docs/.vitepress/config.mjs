@@ -31,7 +31,13 @@ export default defineConfig({
             ]
           },
           { text: 'Troops',
-            link: '/sb/troops_cards'},
+            link: '/sb/troops',
+            items: [
+              { text: 'Info Cards', link: '/sb/troops_cards' },
+              { text: 'Sorted by DPS', link: '/sb/troops_by_dps' },
+              { text: 'Sorted by HP', link: '/sb/troops_by_hp' }
+            ]
+          },
           { text: 'Enemies (soon)'}
         ]
       },
