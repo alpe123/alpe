@@ -1,23 +1,23 @@
 # Boss Monsters Sorted By HP
 
 <style>
-    .heatMap {
+    .heatMapMBOSS {
         width: 100%;
         text-align: left;
     }
-    .heatMap th {
+    .heatMapMBOSS th {
         word-wrap: break-word;
         text-align: left;
         color: white;
         background: #202127;
     }
-    .heatMap tr:nth-child(1) { background: rgba(66, 133, 244, 0.60); }
-    .heatMap tr:nth-child(2) { background: rgba(66, 133, 244, 0.43); }
-    .heatMap tr:nth-child(3) { background: rgba(66, 133, 244, 0.29); }
-    .heatMap tr:nth-child(4) { background: rgba(66, 133, 244, 0.24); }
+    .heatMapMBOSS tr:nth-child(1) { background: rgba(66, 133, 244, 0.60); }
+    .heatMapMBOSS tr:nth-child(2) { background: rgba(66, 133, 244, 0.43); }
+    .heatMapMBOSS tr:nth-child(3) { background: rgba(66, 133, 244, 0.29); }
+    .heatMapMBOSS tr:nth-child(4) { background: rgba(66, 133, 244, 0.24); }
 </style>
 
-<div class="heatMap">
+<div class="heatMapMBOSS">
 
 |   | Monster | HP | Base DPS | 
 | -- | -- | -- | -- |

@@ -1,37 +1,37 @@
 # Small Monsters Sorted By HP
 
 <style>
-    .heatMap {
+    .heatMapMS {
         width: 100%;
         text-align: left;
     }
-    .heatMap th {
+    .heatMapMS th {
         word-wrap: break-word;
         text-align: left;
         color: white;
         background: #202127;
     }
-    .heatMap tr:nth-child(1) { background: rgba(66, 133, 244, 0.60); }
-    .heatMap tr:nth-child(2) { background: rgba(66, 133, 244, 0.39); }
-    .heatMap tr:nth-child(3) { background: rgba(66, 133, 244, 0.26); }
-    .heatMap tr:nth-child(4) { background: rgba(66, 133, 244, 0.17); }
-    .heatMap tr:nth-child(5) { background: rgba(66, 133, 244, 0.17); }
-    .heatMap tr:nth-child(6) { background: rgba(66, 133, 244, 0.12); }
-    .heatMap tr:nth-child(7) { background: rgba(66, 133, 244, 0.11); }
-    .heatMap tr:nth-child(8) { background: rgba(66, 133, 244, 0.07); }
-    .heatMap tr:nth-child(9) { background: rgba(66, 133, 244, 0.07); }
-    .heatMap tr:nth-child(10) { background: rgba(66, 133, 244, 0.07); }
-    .heatMap tr:nth-child(11) { background: rgba(66, 133, 244, 0.07); }
-    .heatMap tr:nth-child(12) { background: rgba(66, 133, 244, 0.05); }
-    .heatMap tr:nth-child(13) { background: rgba(66, 133, 244, 0.05); }
-    .heatMap tr:nth-child(14) { background: rgba(66, 133, 244, 0.05); }
-    .heatMap tr:nth-child(15) { background: rgba(66, 133, 244, 0.05); }
-    .heatMap tr:nth-child(16) { background: rgba(66, 133, 244, 0.03); }
-    .heatMap tr:nth-child(17) { background: rgba(66, 133, 244, 0.03); }
-    .heatMap tr:nth-child(18) { background: rgba(66, 133, 244, 0.01); }
+    .heatMapMS tr:nth-child(1) { background: rgba(66, 133, 244, 0.60); }
+    .heatMapMS tr:nth-child(2) { background: rgba(66, 133, 244, 0.39); }
+    .heatMapMS tr:nth-child(3) { background: rgba(66, 133, 244, 0.26); }
+    .heatMapMS tr:nth-child(4) { background: rgba(66, 133, 244, 0.17); }
+    .heatMapMS tr:nth-child(5) { background: rgba(66, 133, 244, 0.17); }
+    .heatMapMS tr:nth-child(6) { background: rgba(66, 133, 244, 0.12); }
+    .heatMapMS tr:nth-child(7) { background: rgba(66, 133, 244, 0.11); }
+    .heatMapMS tr:nth-child(8) { background: rgba(66, 133, 244, 0.07); }
+    .heatMapMS tr:nth-child(9) { background: rgba(66, 133, 244, 0.07); }
+    .heatMapMS tr:nth-child(10) { background: rgba(66, 133, 244, 0.07); }
+    .heatMapMS tr:nth-child(11) { background: rgba(66, 133, 244, 0.07); }
+    .heatMapMS tr:nth-child(12) { background: rgba(66, 133, 244, 0.05); }
+    .heatMapMS tr:nth-child(13) { background: rgba(66, 133, 244, 0.05); }
+    .heatMapMS tr:nth-child(14) { background: rgba(66, 133, 244, 0.05); }
+    .heatMapMS tr:nth-child(15) { background: rgba(66, 133, 244, 0.05); }
+    .heatMapMS tr:nth-child(16) { background: rgba(66, 133, 244, 0.03); }
+    .heatMapMS tr:nth-child(17) { background: rgba(66, 133, 244, 0.03); }
+    .heatMapMS tr:nth-child(18) { background: rgba(66, 133, 244, 0.01); }
 </style>
 
-<div class="heatMap">
+<div class="heatMapMS">
 
 |   | Monster | HP | Base DPS | 
 | -- | -- | -- | -- |

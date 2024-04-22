@@ -9,7 +9,7 @@ hero:
     src: /logo_alpe_4.png
     alt: Alpe
   actions:
-    - theme: brand
+    - theme: alt
       text: Clash Royale
       link: /cr/index
     - theme: brand

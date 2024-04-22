@@ -1,48 +1,48 @@
 # Troops Sorted By HP
 
 <style>
-    .heatMap {
+    .heatMapTHP {
         width: 100%;
         text-align: left;
     }
-    .heatMap th {
+    .heatMapTHP th {
         word-wrap: break-word;
         text-align: left;
         color: white;
         background: #202127;
     }
-    .heatMap tr:nth-child(1) { background: rgba(200, 0, 200, 0.3); }
-    .heatMap tr:nth-child(2) { background: rgba(200, 0, 200, 0.3); }
-    .heatMap tr:nth-child(3) { background: rgba(0, 255, 0, 0.3); }
-    .heatMap tr:nth-child(4) { background: rgba(32, 223, 0, 0.3); }
-    .heatMap tr:nth-child(5) { background: rgba(72, 183, 0, 0.3); }
-    .heatMap tr:nth-child(6) { background: rgba(80, 175, 0, 0.3); }
-    .heatMap tr:nth-child(7) { background: rgba(112, 143, 0, 0.3); }
-    .heatMap tr:nth-child(8) { background: rgba(120, 135, 0, 0.3); }
-    .heatMap tr:nth-child(9) { background: rgba(128, 128, 0, 0.3); }
-    .heatMap tr:nth-child(10) { background: rgba(135, 120, 0, 0.3); }
-    .heatMap tr:nth-child(11) { background: rgba(143, 112, 0, 0.3); }
-    .heatMap tr:nth-child(12) { background: rgba(151, 104, 0, 0.3); }
-    .heatMap tr:nth-child(13) { background: rgba(151, 104, 0, 0.3); }
-    .heatMap tr:nth-child(14) { background: rgba(151, 104, 0, 0.3); }
-    .heatMap tr:nth-child(15) { background: rgba(159, 96, 0, 0.3); }
-    .heatMap tr:nth-child(16) { background: rgba(159, 96, 0, 0.3); }
-    .heatMap tr:nth-child(17) { background: rgba(159, 96, 0, 0.3); }
-    .heatMap tr:nth-child(18) { background: rgba(159, 96, 0, 0.3); }
-    .heatMap tr:nth-child(19) { background: rgba(159, 96, 0, 0.3); }
-    .heatMap tr:nth-child(20) { background: rgba(167, 88, 0, 0.3); }
-    .heatMap tr:nth-child(21) { background: rgba(167, 88, 0, 0.3); }
-    .heatMap tr:nth-child(22) { background: rgba(175, 80, 0, 0.3); }
-    .heatMap tr:nth-child(23) { background: rgba(175, 80, 0, 0.3); }
-    .heatMap tr:nth-child(24) { background: rgba(183, 72, 0, 0.3); }
-    .heatMap tr:nth-child(25) { background: rgba(183, 72, 0, 0.3); }
-    .heatMap tr:nth-child(26) { background: rgba(187, 68, 0, 0.3); }
-    .heatMap tr:nth-child(27) { background: rgba(191, 64, 0, 0.3); }
-    .heatMap tr:nth-child(28) { background: rgba(195, 60, 0, 0.3); }
-    .heatMap tr:nth-child(29) { background: rgba(199, 56, 0, 0.3); }
+    .heatMapTHP tr:nth-child(1) { background: rgba(200, 0, 200, 0.3); }
+    .heatMapTHP tr:nth-child(2) { background: rgba(200, 0, 200, 0.3); }
+    .heatMapTHP tr:nth-child(3) { background: rgba(0, 255, 0, 0.3); }
+    .heatMapTHP tr:nth-child(4) { background: rgba(32, 223, 0, 0.3); }
+    .heatMapTHP tr:nth-child(5) { background: rgba(72, 183, 0, 0.3); }
+    .heatMapTHP tr:nth-child(6) { background: rgba(80, 175, 0, 0.3); }
+    .heatMapTHP tr:nth-child(7) { background: rgba(112, 143, 0, 0.3); }
+    .heatMapTHP tr:nth-child(8) { background: rgba(120, 135, 0, 0.3); }
+    .heatMapTHP tr:nth-child(9) { background: rgba(128, 128, 0, 0.3); }
+    .heatMapTHP tr:nth-child(10) { background: rgba(135, 120, 0, 0.3); }
+    .heatMapTHP tr:nth-child(11) { background: rgba(143, 112, 0, 0.3); }
+    .heatMapTHP tr:nth-child(12) { background: rgba(151, 104, 0, 0.3); }
+    .heatMapTHP tr:nth-child(13) { background: rgba(151, 104, 0, 0.3); }
+    .heatMapTHP tr:nth-child(14) { background: rgba(151, 104, 0, 0.3); }
+    .heatMapTHP tr:nth-child(15) { background: rgba(159, 96, 0, 0.3); }
+    .heatMapTHP tr:nth-child(16) { background: rgba(159, 96, 0, 0.3); }
+    .heatMapTHP tr:nth-child(17) { background: rgba(159, 96, 0, 0.3); }
+    .heatMapTHP tr:nth-child(18) { background: rgba(159, 96, 0, 0.3); }
+    .heatMapTHP tr:nth-child(19) { background: rgba(159, 96, 0, 0.3); }
+    .heatMapTHP tr:nth-child(20) { background: rgba(167, 88, 0, 0.3); }
+    .heatMapTHP tr:nth-child(21) { background: rgba(167, 88, 0, 0.3); }
+    .heatMapTHP tr:nth-child(22) { background: rgba(175, 80, 0, 0.3); }
+    .heatMapTHP tr:nth-child(23) { background: rgba(175, 80, 0, 0.3); }
+    .heatMapTHP tr:nth-child(24) { background: rgba(183, 72, 0, 0.3); }
+    .heatMapTHP tr:nth-child(25) { background: rgba(183, 72, 0, 0.3); }
+    .heatMapTHP tr:nth-child(26) { background: rgba(187, 68, 0, 0.3); }
+    .heatMapTHP tr:nth-child(27) { background: rgba(191, 64, 0, 0.3); }
+    .heatMapTHP tr:nth-child(28) { background: rgba(195, 60, 0, 0.3); }
+    .heatMapTHP tr:nth-child(29) { background: rgba(199, 56, 0, 0.3); }
 </style>
 
-<div class="heatMap">
+<div class="heatMapTHP">
 
 |   | Troop | HP | DPS | 
 | -- | -- | -- | -- |

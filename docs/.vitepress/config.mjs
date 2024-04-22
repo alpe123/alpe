@@ -2,7 +2,11 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
+  head: [['link',
+          { rel: 'icon', href: '/favicon.ico' },
+          { rel: 'stylesheet', href: '../styles/styles.css' }
+         ]
+        ],
   lang: 'en-US',
   title: "Alpe",
   logo: "/logo_alpe_4.png",

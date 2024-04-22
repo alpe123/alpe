@@ -1,28 +1,28 @@
 # Big Monsters Sorted By HP
 
 <style>
-    .heatMap {
+    .heatMapMB {
         width: 100%;
         text-align: left;
     }
-    .heatMap th {
+    .heatMapMB th {
         word-wrap: break-word;
         text-align: left;
         color: white;
         background: #202127;
     }
-    .heatMap tr:nth-child(1) { background: rgba(66, 133, 244, 0.60); }
-    .heatMap tr:nth-child(2) { background: rgba(66, 133, 244, 0.56); }
-    .heatMap tr:nth-child(3) { background: rgba(66, 133, 244, 0.45); }
-    .heatMap tr:nth-child(4) { background: rgba(66, 133, 244, 0.45); }
-    .heatMap tr:nth-child(5) { background: rgba(66, 133, 244, 0.45); }
-    .heatMap tr:nth-child(6) { background: rgba(66, 133, 244, 0.38); }
-    .heatMap tr:nth-child(7) { background: rgba(66, 133, 244, 0.38); }
-    .heatMap tr:nth-child(8) { background: rgba(66, 133, 244, 0.38); }
-    .heatMap tr:nth-child(9) { background: rgba(66, 133, 244, 0.38); }
+    .heatMapMB tr:nth-child(1) { background: rgba(66, 133, 244, 0.60); }
+    .heatMapMB tr:nth-child(2) { background: rgba(66, 133, 244, 0.56); }
+    .heatMapMB tr:nth-child(3) { background: rgba(66, 133, 244, 0.45); }
+    .heatMapMB tr:nth-child(4) { background: rgba(66, 133, 244, 0.45); }
+    .heatMapMB tr:nth-child(5) { background: rgba(66, 133, 244, 0.45); }
+    .heatMapMB tr:nth-child(6) { background: rgba(66, 133, 244, 0.38); }
+    .heatMapMB tr:nth-child(7) { background: rgba(66, 133, 244, 0.38); }
+    .heatMapMB tr:nth-child(8) { background: rgba(66, 133, 244, 0.38); }
+    .heatMapMB tr:nth-child(9) { background: rgba(66, 133, 244, 0.38); }
 </style>
 
-<div class="heatMap">
+<div class="heatMapMB">
 
 |   | Monster | HP | Base DPS | 
 | -- | -- | -- | -- |

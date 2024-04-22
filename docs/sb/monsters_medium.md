@@ -1,25 +1,25 @@
 # Medium Monsters Sorted By HP
 
 <style>
-    .heatMap {
+    .heatMapMM {
         width: 100%;
         text-align: left;
     }
-    .heatMap th {
+    .heatMapMM th {
         word-wrap: break-word;
         text-align: left;
         color: white;
         background: #202127;
     }
-    .heatMap tr:nth-child(1) { background: rgba(66, 133, 244, 0.60); }
-    .heatMap tr:nth-child(2) { background: rgba(66, 133, 244, 0.26); }
-    .heatMap tr:nth-child(3) { background: rgba(66, 133, 244, 0.26); }
-    .heatMap tr:nth-child(4) { background: rgba(66, 133, 244, 0.26); }
-    .heatMap tr:nth-child(5) { background: rgba(66, 133, 244, 0.21); }
-    .heatMap tr:nth-child(6) { background: rgba(66, 133, 244, 0.10); }
+    .heatMapMM tr:nth-child(1) { background: rgba(66, 133, 244, 0.60); }
+    .heatMapMM tr:nth-child(2) { background: rgba(66, 133, 244, 0.26); }
+    .heatMapMM tr:nth-child(3) { background: rgba(66, 133, 244, 0.26); }
+    .heatMapMM tr:nth-child(4) { background: rgba(66, 133, 244, 0.26); }
+    .heatMapMM tr:nth-child(5) { background: rgba(66, 133, 244, 0.21); }
+    .heatMapMM tr:nth-child(6) { background: rgba(66, 133, 244, 0.10); }
 </style>
 
-<div class="heatMap">
+<div class="heatMapMM">
 
 |   | Monster | HP | Base DPS | 
 | -- | -- | -- | -- |
