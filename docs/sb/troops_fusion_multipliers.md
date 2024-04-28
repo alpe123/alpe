@@ -24,6 +24,7 @@ Here's a full list with the specific buff of each Fusion:
         word-wrap: break-word;
         text-align: left;
         color: white;
+        background: #202127;
     }
     .heatMap tr:nth-child(1) { background: rgba(0, 255, 0, 0.3); }
     .heatMap tr:nth-child(2) { background: rgba(0, 255, 0, 0.3); }

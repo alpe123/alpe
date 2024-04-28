@@ -4,7 +4,7 @@ outline: understand your surroundings
 
 # Squad Busters Troops
 
-With the soft launch, 27 normal troops will be released, and 2 megas; 29 in total.
+With the soft launch, 27 normal troops will be released, and 2 Megas; 29 in total.
 
 The amount of troops available to unlock in each world is:
 

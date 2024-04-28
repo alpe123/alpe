@@ -10,7 +10,7 @@ The main 4 categories of NPC enemies are:
 
 [[toc]]
 
-Most of these NPCs are also the ones you have to bust to complete the Monster tasks of the Avievements Book. This is a list of all the Monsters you can find, sorted by Hit Points.
+Most of these NPCs are also the ones you have to bust to complete the Monster tasks of the Achievements Book. This is a list of all the Monsters you can find, sorted by Hit Points.
 
 > [!NOTE]
 > Many monsters have different kinds of attack sequences, so simplifying everything into a single damage value isn't possible. The tables of each monster category show the base DPS of monsters, but many can be quite more dangerous with their super attacks or other abilities.
@@ -139,3 +139,9 @@ Most of these NPCs are also the ones you have to bust to complete the Monster ta
         <img src="../assets/sb_enemies_1_kaiju.png"  width="40" height="40" />
     </div>
 </div>
+
+___
+
+# [All Monsters](/sb/monsters_all)
+
+A single list with all the monsters.

@@ -16,6 +16,9 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     logo: "/logo_alpe_9_c.png",
     siteTitle: "Alpe",
+    search: {
+      provider: 'local'
+    },
     nav: [
       { text: 'Home', link: '/' },
       { text: 'SB', link: '/sb/' },
@@ -54,13 +57,23 @@ export default defineConfig({
             { text: 'Big', link: '/sb/monsters_big.html' },
             { text: 'Bosses', link: '/sb/monsters_bosses.html' }
           ]
+          },
+          { text: 'More Stuff',
+          link: '/sb/more_stuff',
+          items: [
+            { text: 'Chest Sizes', link: '/sb/chest_sizes.html' },
+            { text: 'Chest Cycle', link: '/sb/chest_cycle.html' },
+            { text: 'Chest Prices', link: '/sb/chest_prices.html' },
+            { text: 'Mega Drop Chances', link: '/sb/mega_chances.html' },
+            { text: 'General Tips', link: '/sb/tips.html' },
+            { text: 'Additional Resources', link: '/sb/resources.html' }
+          ]
           }
         ]
       },
       {
-        text: 'Clash Royale (soon)',
-        link: '/cr/',
-        items: []
+        text: 'Share on Twitter!',
+        link: 'https://twitter.com/intent/tweet?text=Check%20out%20this%20unique%20site%20for%20%23SquadBusters!&url=https://alpe123.github.io/alpe/sb/'
       }
     ],
 
