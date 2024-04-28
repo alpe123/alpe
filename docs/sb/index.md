@@ -43,6 +43,11 @@ features:
     link: /sb/mega_chances
   - icon:
       src: /appicon_sb_2cs.png
+    title: General Tips
+    details: Do you know all of them? 
+    link: /sb/tips
+  - icon:
+      src: /appicon_sb_2cs.png
     title: Additional Resources
     details: Several links, tools and resources to external pages
     link: /sb/resources

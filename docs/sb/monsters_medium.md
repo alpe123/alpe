@@ -11,13 +11,13 @@
         color: white;
         background: #202127;
     }
-    .heatMapMA tr:nth-child(1) { background: rgba(66, 133, 244, 0.60); }
-    .heatMapMA tr:nth-child(2) { background: rgba(66, 133, 244, 0.26); }
-    .heatMapMA tr:nth-child(3) { background: rgba(66, 133, 244, 0.26); }
-    .heatMapMA tr:nth-child(4) { background: rgba(66, 133, 244, 0.26); }
-    .heatMapMA tr:nth-child(5) { background: rgba(66, 133, 244, 0.26); }
-    .heatMapMA tr:nth-child(6) { background: rgba(66, 133, 244, 0.21); }
-    .heatMapMA tr:nth-child(7) { background: rgba(66, 133, 244, 0.10); }
+    .heatMapMM tr:nth-child(1) { background: rgba(66, 133, 244, 0.60); }
+    .heatMapMM tr:nth-child(2) { background: rgba(66, 133, 244, 0.26); }
+    .heatMapMM tr:nth-child(3) { background: rgba(66, 133, 244, 0.26); }
+    .heatMapMM tr:nth-child(4) { background: rgba(66, 133, 244, 0.26); }
+    .heatMapMM tr:nth-child(5) { background: rgba(66, 133, 244, 0.26); }
+    .heatMapMM tr:nth-child(6) { background: rgba(66, 133, 244, 0.21); }
+    .heatMapMM tr:nth-child(7) { background: rgba(66, 133, 244, 0.10); }
 </style>
 
 <div class="heatMapMM">

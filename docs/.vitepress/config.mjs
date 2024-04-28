@@ -46,6 +46,8 @@ export default defineConfig({
               { text: 'Info Cards', link: '/sb/troops_cards' },
               { text: 'Sorted by DPS', link: '/sb/troops_by_dps' },
               { text: 'Sorted by HP', link: '/sb/troops_by_hp' },
+              { text: 'DPS vs HP', link: '/sb/troops_chart_dpsvshp' },
+              { text: 'Fusion Stats', link: '/sb/troops_fusions' },
               { text: 'Fusion Multipliers', link: '/sb/troops_fusion_multipliers' }
             ]
           },
@@ -55,7 +57,8 @@ export default defineConfig({
             { text: 'Small', link: '/sb/monsters_small.html' },
             { text: 'Medium', link: '/sb/monsters_medium.html' },
             { text: 'Big', link: '/sb/monsters_big.html' },
-            { text: 'Bosses', link: '/sb/monsters_bosses.html' }
+            { text: 'Bosses', link: '/sb/monsters_bosses.html' },
+            { text: 'All', link: '/sb/monsters_all.html' }
           ]
           },
           { text: 'More Stuff',

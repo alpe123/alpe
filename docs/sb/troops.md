@@ -118,3 +118,13 @@ You can browse through all the troops in the following ways:
 [**Damage Per Second Ranking**](/sb/troops_by_dps)
 
 [**Hit Points Ranking**](/sb/troops_by_hp)
+
+___
+
+# Other related pages:
+
+- [**DPS VS HP Chart**](/sb/troops_chart_dpsvshp)
+
+- [**Fusion Stats**](/sb/troops_fusions)
+
+- [**Fusion Multipliers**](/sb/troops_fusion_multipliers)

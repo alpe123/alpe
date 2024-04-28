@@ -29,7 +29,15 @@ Defeating other squads and some boss monsters will give you chest keys. These ke
 
 ### Shining Grass
 
-Tall grass can hide some small rewards that can be very relevant to kick off your progression. You can find them by stepping over tall grass that has a golden shine. 
+Tall grass can hide some small rewards that can be very relevant to kick off your progression. You can find them by stepping over tall grass that has a golden shine.
+
+### Breaking Bridges
+
+For a bridge to break, it cannot have any troops on top. This means that after you use it, it won't break until no players or NPCs are stepping on it.
+
+Not all bridges in the maps break, it's mostly the ones in the outside of each map. You can get a better sense of their location by looking at these [simplified maps](/sb/maps).
+
+A simple rule of thumb: if the bridge has paths of low grass coming in and out of it, it's permanent.
 
 ### Boost Boots
 
