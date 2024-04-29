@@ -29,9 +29,11 @@ export default defineConfig({
       {
         text: 'Squad Busters',
         link: '/sb/',
+        collapsed: true,
         items: [
           { text: 'Maps',
             link: '/sb/maps',
+            collapsed: true,
             items: [
               { text: 'Green World', link: '/sb/maps_w1' },
               { text: 'Desert World', link: '/sb/maps_w2' },
@@ -42,6 +44,7 @@ export default defineConfig({
           },
           { text: 'Troops',
             link: '/sb/troops',
+            collapsed: true,
             items: [
               { text: 'Info Cards', link: '/sb/troops_cards' },
               { text: 'Sorted by DPS', link: '/sb/troops_by_dps' },
@@ -52,38 +55,48 @@ export default defineConfig({
             ]
           },
           { text: 'Monsters',
-          link: '/sb/monsters',
-          items: [
-            { text: 'Small', link: '/sb/monsters_small.html' },
-            { text: 'Medium', link: '/sb/monsters_medium.html' },
-            { text: 'Big', link: '/sb/monsters_big.html' },
-            { text: 'Bosses', link: '/sb/monsters_bosses.html' },
-            { text: 'All', link: '/sb/monsters_all.html' }
-          ]
+            link: '/sb/monsters',
+            collapsed: true,
+            items: [
+              { text: 'Small', link: '/sb/monsters_small.html' },
+              { text: 'Medium', link: '/sb/monsters_medium.html' },
+              { text: 'Big', link: '/sb/monsters_big.html' },
+              { text: 'Bosses', link: '/sb/monsters_bosses.html' },
+              { text: 'All', link: '/sb/monsters_all.html' }
+            ]
           },
           { text: 'More Stuff',
-          link: '/sb/more_stuff',
-          items: [
-            { text: 'Chest Sizes', link: '/sb/chest_sizes.html' },
-            { text: 'Chest Prices', link: '/sb/chest_prices.html' },
-            { text: 'Mega Drop Chances', link: '/sb/mega_chances.html' },
-            { text: 'General Tips', link: '/sb/tips.html' },
-            { text: 'Additional Resources', link: '/sb/resources.html' }
-          ]
+            link: '/sb/more_stuff',
+            collapsed: false,
+            items: [
+              { text: 'Chest Cycle', link: '/sb/chest_cycle.html' },
+              { text: 'Chest Sizes', link: '/sb/chest_sizes.html' },
+              { text: 'Chest Prices', link: '/sb/chest_prices.html' },
+              { text: 'Mega Drop Chances', link: '/sb/mega_chances.html' },
+              { text: 'General Tips', link: '/sb/tips.html' },
+              { text: 'Additional Resources', link: '/sb/resources.html' }
+            ]
           }
         ]
       },
       {
-        text: 'Share on Twitter!',
+        text: '<img src="../assets/share_x_2.png" />',
         link: 'https://twitter.com/intent/tweet?text=Check%20out%20this%20unique%20site%20for%20%23SquadBusters!&url=https://alpe123.github.io/alpe/sb/'
+      },
+      {
+        text: '<img src="../assets/creator_code_2.png" />',
+        link: 'https://link.squadbusters.com/supportcreator/en/?code=ROYALEAPI'
       }
     ],
-
     socialLinks: [
       { icon: 'twitter', link: 'https://twitter.com/Alpe123_CR' },
       // { icon: 'reddit', link: 'https://www.reddit.com/user/alpe123/' },
       { icon: 'github', link: 'https://github.com/alpe123' }
-    ]
+    ],
+    footer: {
+      message: '<a href="https://supercell.com/en/fan-content-policy/">This content is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it.</a>',
+      copyright: 'Copyright © 2024 Álvaro Peña. All rights reserved.'
+    }
   }
 })
 
