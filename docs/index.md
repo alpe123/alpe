@@ -39,11 +39,6 @@ features:
     link: /sb/chest_sizes
   - icon:
       src: /appicon_sb_2cs.png
-    title: Chest Cycle
-    details: How to find out the rarity of your next chest
-    link: /sb/chest_cycle
-  - icon:
-      src: /appicon_sb_2cs.png
     title: Mega Drop Chances
     details: Probability to get Mega troops from a chest during battles
     link: /sb/mega_chances

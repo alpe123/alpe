@@ -1,6 +1,13 @@
 # Chest Sizes
 
-Chests that you earn after completing a battle are known as "Reward Chests". These chests can have different size, depending on the amount of taps you have earned. The rarity of these chests is predefined by the chest cycle, you can find more about it [here](/sb/chest_cycle).
+Chests that you earn after completing a battle are known as "Reward Chests". These chests can have different size, depending on the amount of taps you have earned.
+
+<!---
+The rarity of these chests is predefined by the chest cycle, you can find more about it [here](/sb/chest_cycle).
+  -->
+<!---
+  -->
+
 
 The two ways to earn bonus taps are:
 
@@ -109,7 +116,9 @@ An instance in which paying for a streak can be optimal is when you have **sever
 
 If that happens and you think you can keep your streak for the remaining chests, it will provide a similar value compared to buying more chests.
 
+<!---
 If you are keeping track of your [Chest Cycle](/sb/chest_cycle), paying for extra taps when **you know you'll get an Epic chest** may also be worth it.
+  -->
 
 # Strategy: Leave your streak ready!
 

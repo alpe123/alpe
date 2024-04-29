@@ -65,7 +65,6 @@ export default defineConfig({
           link: '/sb/more_stuff',
           items: [
             { text: 'Chest Sizes', link: '/sb/chest_sizes.html' },
-            { text: 'Chest Cycle', link: '/sb/chest_cycle.html' },
             { text: 'Chest Prices', link: '/sb/chest_prices.html' },
             { text: 'Mega Drop Chances', link: '/sb/mega_chances.html' },
             { text: 'General Tips', link: '/sb/tips.html' },
