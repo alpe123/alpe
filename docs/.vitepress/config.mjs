@@ -80,12 +80,10 @@ export default defineConfig({
         ]
       },
       {
-        text: '<img src="../share_x_2.png" />',
-        link: 'https://twitter.com/intent/tweet?text=Check%20out%20this%20unique%20site%20for%20%23SquadBusters!&url=https://alpe123.github.io/alpe/sb/'
+        text: '<a href="https://twitter.com/intent/tweet?text=Check%20out%20this%20unique%20site%20for%20%23SquadBusters!&url=https://alpe123.github.io/alpe/sb/" target="_blank"> <img src="../share_x_2.png" /> </a>',
       },
       {
-        text: '<img src="../creator_code_2.png" />',
-        link: 'https://link.squadbusters.com/supportcreator/en/?code=ROYALEAPI'
+        text: '<a href="https://link.squadbusters.com/supportcreator/en/?code=ROYALEAPI" target="_blank"> <img src="../creator_code_2.png" /> </a>'
       }
     ],
     socialLinks: [
