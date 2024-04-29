@@ -2,7 +2,7 @@
 
 ::: warning
 
-**The information shown in this page is unconfirmed.** The cycle below may have inconsistencies or not even active in the current build of the game. Additional information and context in this page were written under the assumption that the chest cycle is correct, but again, that might not be the case.
+**The information shown in this page is unconfirmed.** The cycle below may have inconsistencies or not be even active in the current build of the game. Additional information and context in this page were written under the assumption that the chest cycle is correct, but again, that might not be the case.
 
 If you track your rewards thoroughly and reach any conclusions, let me know; I'll be doing the same.
 

@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   head: [['link',
-          { rel: 'icon', href: '/favicon.ico' },
+          { rel: 'icon', href: '../favicon.ico' },
           { rel: 'stylesheet', href: '../styles/styles.css' }
          ]
         ],
@@ -80,11 +80,11 @@ export default defineConfig({
         ]
       },
       {
-        text: '<img src="../assets/share_x_2.png" />',
+        text: '<img src="../share_x_2.png" />',
         link: 'https://twitter.com/intent/tweet?text=Check%20out%20this%20unique%20site%20for%20%23SquadBusters!&url=https://alpe123.github.io/alpe/sb/'
       },
       {
-        text: '<img src="../assets/creator_code_2.png" />',
+        text: '<img src="../creator_code_2.png" />',
         link: 'https://link.squadbusters.com/supportcreator/en/?code=ROYALEAPI'
       }
     ],
