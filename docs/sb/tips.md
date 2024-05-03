@@ -105,6 +105,16 @@ When squads are big, it can be a bit challenging to distinguish fusions from nor
 
 ## Advanced
 
+### Mobile or Tablet?
+
+The amount of map you can see at a given time will be determined by how wide your device is. The vertical axis is the same for everyone, so having a wider device will give you more peripheral vision.
+
+Tablets are usually less wide than phones, so they'll show you less area around you. At the same time, they can allow you to see everything in more detail, which can be useful in very crowded battles.
+
+Ultimately it's about preference, but be aware that the opponents on your sides might be seeing you, even if you don't see them!
+
+![Device Size](/assets/sb_device_2.png)
+
 ### Party Up!
 
 Playing with friends can be advantageous. You won't be able to earn trophies in Party, but you can earn other rewards and grow your Top 5 Streak.
