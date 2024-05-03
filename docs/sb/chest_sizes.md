@@ -1,19 +1,27 @@
 # Chest Sizes
 
-Chests that you earn after completing a battle are known as "Reward Chests". These chests can have different size, depending on the amount of taps you have earned.
+Chests that you earn after completing a battle are known as "Reward Chests". These chests can have different size (number of troops), depending on the amount of taps you have earned.
 
 The rarity of these chests is predefined by the chest cycle, you can find more about it [here](/sb/chest_cycle).
 <!---
   -->
 
+Chests taps per chest can range from 2 to 7:
+- 2 is the minimum, for finishing 9th or 10th.
+- 7 is the maximum, for finishing in the top 3 with a max streak active.
 
-The two ways to earn bonus taps are:
+The minimum amount of troops per chest is 1, but with each tap you have a chance to make it bigger.
+
+Chests that unlock new troops don't have size increases, meaning that you'll only see rarity changes, and finally you'll get a single new troop.
+
+
+The two ways to earn taps are:
 
 [[toc]]
 
 ## Battle Placement
 
-Depending on your battle placement, you can earn from 2 to 4 taps. This means that chest have a minimum of 3 taps: the base one and 2 additional ones.
+Depending on your battle placement, you can earn from 2 to 4 taps:
 
 <style>
     .heatMapCSP {
