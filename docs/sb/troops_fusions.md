@@ -2,49 +2,51 @@
 
 This table compares Fusion stats, based on the [Fusion Multipliers](/sb/troops_fusion_multipliers).
 
+You can also find a chart displaying the information in this table [here](/sb/troops_chart_dpsvshp.html#megas-and-fusions). 
+
 <style>
-    .heatMapTFHP {
+    .heatMapFusionsByHP {
         width: 100%;
         text-align: left;
     }
-    .heatMapTFHP th {
+    .heatMapFusionsByHP th {
         word-wrap: break-word;
         text-align: left;
         color: white;
         background: #202127;
     }
-    .heatMapTFHP tr:nth-child(1) { background: rgba(66, 133, 244, 0.60); }
-    .heatMapTFHP tr:nth-child(2) { background: rgba(200, 0, 200, 0.3); }
-    .heatMapTFHP tr:nth-child(3) { background: rgba(66, 133, 244, 0.53); }
-    .heatMapTFHP tr:nth-child(4) { background: rgba(66, 133, 244, 0.43); }
-    .heatMapTFHP tr:nth-child(5) { background: rgba(200, 0, 200, 0.3); }
-    .heatMapTFHP tr:nth-child(6) { background: rgba(66, 133, 244, 0.41); }
-    .heatMapTFHP tr:nth-child(7) { background: rgba(66, 133, 244, 0.34); }
-    .heatMapTFHP tr:nth-child(8) { background: rgba(66, 133, 244, 0.32); }
-    .heatMapTFHP tr:nth-child(9) { background: rgba(66, 133, 244, 0.30); }
-    .heatMapTFHP tr:nth-child(10) { background: rgba(66, 133, 244, 0.28); }
-    .heatMapTFHP tr:nth-child(11) { background: rgba(66, 133, 244, 0.26); }
-    .heatMapTFHP tr:nth-child(12) { background: rgba(66, 133, 244, 0.24); }
-    .heatMapTFHP tr:nth-child(13) { background: rgba(66, 133, 244, 0.24); }
-    .heatMapTFHP tr:nth-child(14) { background: rgba(66, 133, 244, 0.24); }
-    .heatMapTFHP tr:nth-child(15) { background: rgba(66, 133, 244, 0.23); }
-    .heatMapTFHP tr:nth-child(16) { background: rgba(66, 133, 244, 0.23); }
-    .heatMapTFHP tr:nth-child(17) { background: rgba(66, 133, 244, 0.23); }
-    .heatMapTFHP tr:nth-child(18) { background: rgba(66, 133, 244, 0.23); }
-    .heatMapTFHP tr:nth-child(19) { background: rgba(66, 133, 244, 0.23); }
-    .heatMapTFHP tr:nth-child(20) { background: rgba(66, 133, 244, 0.21); }
-    .heatMapTFHP tr:nth-child(21) { background: rgba(66, 133, 244, 0.21); }
-    .heatMapTFHP tr:nth-child(22) { background: rgba(66, 133, 244, 0.19); }
-    .heatMapTFHP tr:nth-child(23) { background: rgba(66, 133, 244, 0.19); }
-    .heatMapTFHP tr:nth-child(24) { background: rgba(66, 133, 244, 0.17); }
-    .heatMapTFHP tr:nth-child(25) { background: rgba(66, 133, 244, 0.17); }
-    .heatMapTFHP tr:nth-child(26) { background: rgba(66, 133, 244, 0.16); }
-    .heatMapTFHP tr:nth-child(27) { background: rgba(66, 133, 244, 0.15); }
-    .heatMapTFHP tr:nth-child(28) { background: rgba(66, 133, 244, 0.14); }
-    .heatMapTFHP tr:nth-child(29) { background: rgba(66, 133, 244, 0.13); }
+    .heatMapFusionsByHP tr:nth-child(1) { background: rgba(121, 195, 71, 0.80); }
+    .heatMapFusionsByHP tr:nth-child(2) { background: rgba(220, 60, 199, 0.80); }
+    .heatMapFusionsByHP tr:nth-child(3) { background: rgba(134, 201, 55, 0.80); }
+    .heatMapFusionsByHP tr:nth-child(4) { background: rgba(150, 210, 35, 0.80); }
+    .heatMapFusionsByHP tr:nth-child(5) { background: rgba(220, 60, 199, 0.80); }
+    .heatMapFusionsByHP tr:nth-child(6) { background: rgba(153, 211, 31, 0.80); }
+    .heatMapFusionsByHP tr:nth-child(7) { background: rgba(173, 213, 22, 0.80); }
+    .heatMapFusionsByHP tr:nth-child(8) { background: rgba(180, 211, 23, 0.80); }
+    .heatMapFusionsByHP tr:nth-child(9) { background: rgba(188, 209, 24, 0.80); }
+    .heatMapFusionsByHP tr:nth-child(10) { background: rgba(195, 207, 24, 0.80); }
+    .heatMapFusionsByHP tr:nth-child(11) { background: rgba(202, 205, 25, 0.80); }
+    .heatMapFusionsByHP tr:nth-child(12) { background: rgba(210, 203, 26, 0.80); }
+    .heatMapFusionsByHP tr:nth-child(13) { background: rgba(210, 203, 26, 0.80); }
+    .heatMapFusionsByHP tr:nth-child(14) { background: rgba(210, 203, 26, 0.80); }
+    .heatMapFusionsByHP tr:nth-child(15) { background: rgba(217, 201, 26, 0.80); }
+    .heatMapFusionsByHP tr:nth-child(16) { background: rgba(217, 201, 26, 0.80); }
+    .heatMapFusionsByHP tr:nth-child(17) { background: rgba(217, 201, 26, 0.80); }
+    .heatMapFusionsByHP tr:nth-child(18) { background: rgba(217, 201, 26, 0.80); }
+    .heatMapFusionsByHP tr:nth-child(19) { background: rgba(217, 201, 26, 0.80); }
+    .heatMapFusionsByHP tr:nth-child(20) { background: rgba(225, 199, 27, 0.80); }
+    .heatMapFusionsByHP tr:nth-child(21) { background: rgba(225, 199, 27, 0.80); }
+    .heatMapFusionsByHP tr:nth-child(22) { background: rgba(232, 197, 28, 0.80); }
+    .heatMapFusionsByHP tr:nth-child(23) { background: rgba(232, 197, 28, 0.80); }
+    .heatMapFusionsByHP tr:nth-child(24) { background: rgba(240, 195, 28, 0.80); }
+    .heatMapFusionsByHP tr:nth-child(25) { background: rgba(240, 195, 28, 0.80); }
+    .heatMapFusionsByHP tr:nth-child(26) { background: rgba(243, 194, 29, 0.80); }
+    .heatMapFusionsByHP tr:nth-child(27) { background: rgba(247, 193, 29, 0.80); }
+    .heatMapFusionsByHP tr:nth-child(28) { background: rgba(251, 192, 29, 0.80); }
+    .heatMapFusionsByHP tr:nth-child(29) { background: rgba(255, 192, 30, 0.80); }
 </style>
 
-<div class="heatMapTFHP">
+<div class="heatMapFusionsByHP">
 
 |   | Troop | HP | DPS | 
 | -- | -- | -- | -- |

@@ -85,6 +85,9 @@ export default defineConfig({
       },
       {
         text: '<a href="https://link.squadbusters.com/supportcreator/en/?code=ROYALEAPI" target="_blank"> <img src="../creator_code_2.png" /> </a>'
+      },
+      {
+        text: '<a href="https://twitter.com/intent/user?user_id=872478339965038594" target="_blank"> <img src="../follow_alpe_2.png" /> </a>'
       }
     ],
     socialLinks: [
