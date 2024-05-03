@@ -1,5 +1,7 @@
 # Tips
 
+[[toc]]
+
 ## Beginner
 
 ### Keep the Chest Queue Going
@@ -53,6 +55,24 @@ Drag your spell icon to choose where to drop it. This is very important to place
 
 ## Intermediate
 
+### Keep Track Of Your Room
+
+Knowing how many players are left in the battle is essential to adjust your play-style.
+
+![Room Size](/assets/sb_live_rank_demo_1.png)
+
+### Custom Shop Offers
+
+If you are considering spending some money in the game, some custom offers may be even more appealing than the Super Pass.
+
+To make sure you see them, enable them in Settings > More Settings. You'll also have to restart the Squad Busters app for this change to be applied.
+
+![Settings Your Offers](/assets/sb_settings_demo_1.png)
+
+For example:
+
+![Special Offer](/assets/sb_special_offer_1.png)
+
 ### Deselect Your Spells
 
 If you are aiming to throw a spell but you want to cancel, you can simply drag away from your throw range. You'll see that the aim aid disappears, and then it's safe to let go.
@@ -60,6 +80,8 @@ If you are aiming to throw a spell but you want to cancel, you can simply drag a
 ### Training Mode
 
 On the Squad tab, after selecting a troop, you can enter the training mode, where you can peacefully practice and test troop mechanics.
+
+![Training Mode](/assets/sb_training_demo_2.png)
 
 ### Troop Collection Balance
 
@@ -95,6 +117,14 @@ If you bust a squad and have a chest nearby, opening the chest first will save y
 
 Top 5 Streaks are key to get big chests, so understanding them will allow you to progress efficiently. Learn all about them [here](/sb/chest_sizes.html#should-you-pay-to-keep-your-streak).
 
+### Human or Bot?
+
+Ever wondered if you were playing against bots? There's an easy way to find out!
+
+If you visit your battle log, you'll only be able to open the profile of human players. If you tap their name and nothing happens, you found a bot.
+
+![Human or Bot](/assets/sb_humanorbot_2.png)
+
 ## Modifier Specific
 
 ### Dopplegangers
@@ -105,9 +135,9 @@ For example, getting another Goblin will give you a few coins, but converting yo
 
 Some troops that are interesting for their spawn ability:
 
-- Goblin: gives coins
-- Chicken: gives boost boots
-- Nita: spawns bears that stay even if Nita is switched
+- **Goblin**: gives coins
+- **Chicken**: gives boost boots
+- **Nita**: spawns bears that stay even if Nita is switched
 
 ### Double Trouble
 

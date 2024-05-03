@@ -28,9 +28,19 @@ features:
     link: /sb/monsters
   - icon:
       src: /appicon_sb_2cs.png
+    title: Chest Cycle
+    details: How to know the rarity of your next chest
+    link: /sb/chest_cycle
+  - icon:
+      src: /appicon_sb_2cs.png
     title: Chest Sizes
     details: Basic information about chest sizes and bonus taps
     link: /sb/chest_sizes
+  - icon:
+      src: /appicon_sb_2cs.png
+    title: World Progression
+    details: Overview of the Squad Level progression based on Portal Energy
+    link: /sb/progression_worlds
   - icon:
       src: /appicon_sb_2cs.png
     title: Mega Drop Chances

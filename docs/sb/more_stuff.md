@@ -16,6 +16,10 @@ How to find out the rarity of your next chest.
 
 Chest costs based on the size of your squad.
 
+## [World Progression](/sb/progression_worlds)
+
+Overview of the Squad Level progression based on Portal Energy.
+
 ## [Chances of Megas in Chests](/sb/mega_chances)
 
 A complete break down of the probability to get Mega troops from a chest during battles.

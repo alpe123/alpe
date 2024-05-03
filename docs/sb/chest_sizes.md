@@ -2,9 +2,7 @@
 
 Chests that you earn after completing a battle are known as "Reward Chests". These chests can have different size, depending on the amount of taps you have earned.
 
-<!---
 The rarity of these chests is predefined by the chest cycle, you can find more about it [here](/sb/chest_cycle).
-  -->
 <!---
   -->
 
@@ -89,9 +87,9 @@ Depending on your battle placement, you can earn from 2 to 4 taps. This means th
 | -- | -- | -- |
 | <img src="../assets/sb_winstreak_broken.png"  width="40" height="40" /> | 0 wins | 0 Taps |
 | <img src="../assets/sb_winstreak_0001.png"  width="40" height="40" /> | 1 win | 0 Taps |
-| <img src="../assets/sb_winstreak_0002.png"  width="40" height="40" /> | 2 wins | 1 Taps |
-| <img src="../assets/sb_winstreak_0003.png"  width="40" height="40" /> | 3 wins | 1 Taps |
-| <img src="../assets/sb_winstreak_0004.png"  width="40" height="40" /> | 4 wins | 1 Taps |
+| <img src="../assets/sb_winstreak_0002.png"  width="40" height="40" /> | 2 wins | 1 Tap |
+| <img src="../assets/sb_winstreak_0003.png"  width="40" height="40" /> | 3 wins | 1 Tap |
+| <img src="../assets/sb_winstreak_0004.png"  width="40" height="40" /> | 4 wins | 1 Tap |
 | <img src="../assets/sb_winstreak_0005.png"  width="40" height="40" /> | 5 wins | 2 Taps |
 | <img src="../assets/sb_winstreak_0006.png"  width="40" height="40" /> | 6 wins | 2 Taps |
 | <img src="../assets/sb_winstreak_0007.png"  width="40" height="40" /> | 7 wins | 2 Taps |

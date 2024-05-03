@@ -72,6 +72,7 @@ export default defineConfig({
               { text: 'Chest Cycle', link: '/sb/chest_cycle.html' },
               { text: 'Chest Sizes', link: '/sb/chest_sizes.html' },
               { text: 'Chest Prices', link: '/sb/chest_prices.html' },
+              { text: 'World Progression', link: '/sb/progression_worlds.html' },
               { text: 'Mega Drop Chances', link: '/sb/mega_chances.html' },
               { text: 'General Tips', link: '/sb/tips.html' },
               { text: 'Additional Resources', link: '/sb/resources.html' }
