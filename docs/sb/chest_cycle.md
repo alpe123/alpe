@@ -22,6 +22,10 @@ The chest cycle has a length of 60 chests, and the distribution of rarities is:
 - 18 Rare (30%)
 - 6 Epic (10%)
 
+Once you reach the end of the sequence, the cycle simply loops back to the beginning.
+
+![Chest Cycle](/assets/sb_chest_cycle_1.png)
+
 ## Cycle
 
 <style>

@@ -30,6 +30,13 @@ But Mega Troops aren't invincible, their power looks much more balanced when com
 
 ![Fusion Troops](/assets/sb_troops_chart_1_dpsvshp_fusions.png)
 
+## Detailed Stats
+
+If you want to know the specific values used for these charts, you can find them here:
+
+- [**Troops and Megas**](/sb/troops_by_hp)
+- [**Fusions and Megas**](/sb/troops_fusions)
+
 ## Other Comparisons
 
 These other charts aren't as relevant, but just an interesting way to see how troops are distributed by rarity and world.
