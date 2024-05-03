@@ -11,35 +11,23 @@ hero:
     alt: Alpe
 
 features:
-  - icon:
-      src: /appicon_sb_2cs.png
-    title: Maps
+  - title: Maps
     details: Find about the chests, boxes and structure of all the maps. <img src="/alpe/sb_front_maps.png" style="width:300px;height:100px ;">
     link: /sb/maps
     image: /Squad_Logo_Original.png
-  - icon:
-      src: /appicon_sb_2cs.png
-    title: Troops
+  - title: Troops
     details: Compare the HP and DPS of troops to build the best squad. <img src="/alpe/sb_front_troops.png" style="width:300px;height:100px ;">
     link: /sb/troops
-  - icon:
-      src: /appicon_sb_2cs.png
-    title: Monsters
+  - title: Monsters
     details: Stats for all the enemies and bosses you'll find in battles. <img src="/alpe/sb_front_monsters.png" style="width:300px;height:100px ;">
     link: /sb/monsters
-  - icon:
-      src: /appicon_sb_2cs.png
-    title: Chest Cycle
+  - title: Chest Cycle
     details: Cycle stats and how to know the rarity of your next chest. <img src="/alpe/sb_front_cycle_2.png" style="width:300px;height:100px ;">
     link: /sb/chest_cycle
-  - icon:
-      src: /appicon_sb_2cs.png
-    title: Chest Sizes
+  - title: Chest Sizes
     details: Basic information about chest sizes, streaks and bonus taps. <img src="/alpe/sb_front_sizes.png" style="width:300px;height:100px ;">
     link: /sb/chest_sizes
-  - icon:
-      src: /appicon_sb_2cs.png
-    title: World Progression
+  - title: World Progression
     details: Overview of Squad Level progression based on Portal Energy. <img src="/alpe/sb_front_worlds.png" style="width:300px;height:100px ;">
     link: /sb/progression_worlds
   - icon:
