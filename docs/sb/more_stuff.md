@@ -1,33 +1,6 @@
----
-outline: understand your surroundings
----
+# Now on squad.royaleapi.com!
 
-# Other Tools And Stats
+This page was provisionally being hosted on GitHub pages while it was being developed. Now it is officially hosted in RoyaleAPI, so you can find the same content here:
 
-## [Chest Sizes](/sb/chest_sizes)
-
-Basic information about chest sizes and bonus taps.
-
-## [Chest Cycle](/sb/chest_cycle)
-
-How to find out the rarity of your next chest.
-
-## [Chest Prices](/sb/chest_prices)
-
-Chest costs based on the size of your squad.
-
-## [World Progression](/sb/progression_worlds)
-
-Overview of the Squad Level progression based on Portal Energy.
-
-## [Chances of Megas in Chests](/sb/mega_chances)
-
-A complete break down of the probability to get Mega troops from a chest during battles.
-
-## [General Tips](/sb/tips)
-
-Several tips that may be useful.
-
-## [Additional Resources](/sb/resources)
-
-Several links, tools and resources to external pages.
+[<img src="/assets/royaleapi_1.png"
+      alt="Now on squad.royaleapi.com!">](https://squad.royaleapi.com/)

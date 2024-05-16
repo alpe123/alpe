@@ -1,23 +1,6 @@
----
-outline: understand your surroundings
----
+# Now on squad.royaleapi.com!
 
+This page was provisionally being hosted on GitHub pages while it was being developed. Now it is officially hosted in RoyaleAPI, so you can find the same content here:
 
-# Desert World
-
-[[toc]]
-
-This is the second world, played from Journey Level 15 up to 35.
-
-
-## Dusty Badlands
-
-![Desert World Dusty Badlands](/assets/sb_maps_1_d_1.png)
-
-## Troublesome Gulch
-
-![Desert World Troublesome Gulch](/assets/sb_maps_1_d_2.png)
-
-## The Sand Pit
-
-![Desert World Twisting Trails](/assets/sb_maps_1_d_3.png)
+[<img src="/assets/royaleapi_1.png"
+      alt="Now on squad.royaleapi.com!">](https://squad.royaleapi.com/)

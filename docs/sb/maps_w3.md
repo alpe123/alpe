@@ -1,23 +1,6 @@
----
-outline: understand your surroundings
----
+# Now on squad.royaleapi.com!
 
+This page was provisionally being hosted on GitHub pages while it was being developed. Now it is officially hosted in RoyaleAPI, so you can find the same content here:
 
-# Royal World
-
-[[toc]]
-
-This is the third world, played from Journey Level 35 up to 60.
-
-
-## Proving Grounds
-
-![Royal World Proving Grounds](/assets/sb_maps_1_r_1.png)
-
-## Royal Rumbleyard
-
-![Royal World Royal Rumbleyard](/assets/sb_maps_1_r_2.png)
-
-## The Sand Pit
-
-![Royal World Steel Gauntlet](/assets/sb_maps_1_r_3.png)
+[<img src="/assets/royaleapi_1.png"
+      alt="Now on squad.royaleapi.com!">](https://squad.royaleapi.com/)
