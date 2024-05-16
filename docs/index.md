@@ -6,7 +6,7 @@ hero:
   text: x RoyaleAPI
   tagline: now on squad.royaleapi.com!
   image:
-    src: /logo_alpe_x_royaleapi_1.png
+    src: ../logo_alpe_x_royaleapi_1.png
     alt: Alpe
   actions:
     - theme: brand

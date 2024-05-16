@@ -9,12 +9,12 @@ export default defineConfig({
         ],
   lang: 'en-US',
   title: "Alpe",
-  logo: "/logo_alpe_4.png",
+  logo: "../logo_alpe_4.png",
   description: "Stats and tools",
   base: "/squad/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: "/logo_alpe_9_c.png",
+    logo: "../logo_alpe_9_c.png",
     siteTitle: "Alpe",
     search: {
       provider: 'local'
