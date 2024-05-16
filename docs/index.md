@@ -3,53 +3,50 @@ layout: home
 
 hero:
   name: Alpe
-  text: Stats and tools
-  tagline: for Clash Royale and Squad Busters
+  text: x RoyaleAPI
+  tagline: now on squad.royaleapi.com!
   image:
-    src: /logo_alpe_4.png
+    src: /logo_alpe_x_royaleapi_1.png
     alt: Alpe
   actions:
-    - theme: alt
-      text: Clash Royale
-      link: /cr/index
     - theme: brand
-      text: Squad Busters
-      link: /sb/index
+      text: Go to squad.royaleapi.com
+      link: "https://squad.royaleapi.com/"
 
 features:
   - title: Maps
     details: Find about the chests, boxes and structure of all the maps. <img src="/alpe/sb_front_maps.png" style="width:300px;height:100px ;">
-    link: /sb/maps
+    link: "https://squad.royaleapi.com/maps.html"
   - title: Troops
     details: Compare the HP and DPS of troops to build the best squad. <img src="/alpe/sb_front_troops.png" style="width:300px;height:100px ;">
-    link: /sb/troops
+    link: "https://squad.royaleapi.com/troops.html"
   - title: Monsters
     details: Stats for all the enemies and bosses you'll find in battles. <img src="/alpe/sb_front_monsters.png" style="width:300px;height:100px ;">
-    link: /sb/monsters
+    link: "https://squad.royaleapi.com/monsters.html"
   - title: Chest Cycle
     details: Cycle stats and how to know the rarity of your next chest. <img src="/alpe/sb_front_cycle_2.png" style="width:300px;height:100px ;">
-    link: /sb/chest_cycle
+    link: "https://squad.royaleapi.com/chests/cycle.html"
   - title: Chest Sizes
     details: Basic information about chest sizes, streaks and bonus taps. <img src="/alpe/sb_front_sizes.png" style="width:300px;height:100px ;">
-    link: /sb/chest_sizes
+    link: "https://squad.royaleapi.com/chests/sizes.html"
   - title: World Progression
     details: Overview of Squad Level progression based on Portal Energy. <img src="/alpe/sb_front_worlds.png" style="width:300px;height:100px ;">
-    link: /sb/progression_worlds
+    link: "https://squad.royaleapi.com/other/progression_worlds.html"
   - icon:
       src: /appicon_sb_2cs.png
     title: Mega Drop Chances
     details: Probability to get Mega troops from a chest during battles.
-    link: /sb/mega_chances
+    link: "https://squad.royaleapi.com/other/mega_chances.html"
   - icon:
       src: /appicon_sb_2cs.png
     title: General Tips
     details: Do you know all of them? 
-    link: /sb/tips
+    link: "https://squad.royaleapi.com/other/tips.html"
   - icon:
       src: /appicon_sb_2cs.png
     title: Additional Resources
     details: Several links, tools and resources to external pages.
-    link: /sb/resources
+    link: "https://squad.royaleapi.com/other/resources.html"
 ---
 
 <style>
