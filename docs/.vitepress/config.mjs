@@ -11,7 +11,7 @@ export default defineConfig({
   title: "Alpe",
   logo: "../logo_alpe_4.png",
   description: "Stats and tools",
-  base: "/squad/",
+  base: "/alpe/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: "../logo_alpe_9_c.png",
@@ -32,50 +32,50 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'Maps',
-            link: 'https://squad.royaleapi.com/maps.html',
+            link: 'https://squad.royaleapi.com/',
             collapsed: true,
             items: [
-              { text: 'Green World', link: 'https://squad.royaleapi.com/maps/w1.html' },
-              { text: 'Desert World', link: 'https://squad.royaleapi.com/maps/w2.html' },
-              { text: 'Royal World', link: 'https://squad.royaleapi.com/maps/w3.html' },
-              { text: 'Beach World', link: 'https://squad.royaleapi.com/maps/w4.html' },
-              { text: 'Green World (Endgame)', link: 'https://squad.royaleapi.com/maps/w1e.html' }
+              { text: 'Green World', link: 'https://squad.royaleapi.com/' },
+              { text: 'Desert World', link: 'https://squad.royaleapi.com/' },
+              { text: 'Royal World', link: 'https://squad.royaleapi.com/' },
+              { text: 'Beach World', link: 'https://squad.royaleapi.com/' },
+              { text: 'Green World (Endgame)', link: 'https://squad.royaleapi.com/' }
             ]
           },
           { text: 'Troops',
-            link: '/sb/troops',
+            link: 'https://squad.royaleapi.com/troops.html',
             collapsed: true,
             items: [
-              { text: 'Info Cards', link: 'https://squad.royaleapi.com/troops/cards.html' },
-              { text: 'Sorted by DPS', link: 'https://squad.royaleapi.com/troops/by_dps.html' },
-              { text: 'Sorted by HP', link: 'https://squad.royaleapi.com/troops/by_hp.html' },
-              { text: 'DPS vs HP', link: 'https://squad.royaleapi.com/troops/chart_dpsvshp.html' },
-              { text: 'Fusion Stats', link: 'https://squad.royaleapi.com/troops/fusions.html' },
-              { text: 'Fusion Multipliers', link: 'https://squad.royaleapi.com/troops/fusion_multipliers.html' }
+              { text: 'Info Cards', link: 'https://squad.royaleapi.com/' },
+              { text: 'Sorted by DPS', link: 'https://squad.royaleapi.com/' },
+              { text: 'Sorted by HP', link: 'https://squad.royaleapi.com/' },
+              { text: 'DPS vs HP', link: 'https://squad.royaleapi.com/' },
+              { text: 'Fusion Stats', link: 'https://squad.royaleapi.com/' },
+              { text: 'Fusion Multipliers', link: 'https://squad.royaleapi.com/' }
             ]
           },
           { text: 'Monsters',
             link: '/sb/monsters',
             collapsed: true,
             items: [
-              { text: 'Small', link: 'https://squad.royaleapi.com/monsters/mall.html' },
-              { text: 'Medium', link: 'https://squad.royaleapi.com/monsters/medium.html' },
-              { text: 'Big', link: 'https://squad.royaleapi.com/monsters/big.html' },
-              { text: 'Bosses', link: 'https://squad.royaleapi.com/monsters/bosses.html' },
-              { text: 'All', link: 'https://squad.royaleapi.com/monsters/all.html' }
+              { text: 'Small', link: 'https://squad.royaleapi.com/' },
+              { text: 'Medium', link: 'https://squad.royaleapi.com/' },
+              { text: 'Big', link: 'https://squad.royaleapi.com/' },
+              { text: 'Bosses', link: 'https://squad.royaleapi.com/' },
+              { text: 'All', link: 'https://squad.royaleapi.com/' }
             ]
           },
           { text: 'More Stuff',
-            link: '/sb/more_stuff',
+            link: 'https://squad.royaleapi.com/',
             collapsed: false,
             items: [
-              { text: 'Chest Cycle', link: 'https://squad.royaleapi.com/chests/cycle.html' },
-              { text: 'Chest Sizes', link: 'https://squad.royaleapi.com/chests/sizes.html' },
-              { text: 'Chest Prices', link: 'https://squad.royaleapi.com/chests/prices.html' },
-              { text: 'World Progression', link: 'https://squad.royaleapi.com/other/progression_worlds.html' },
-              { text: 'Mega Drop Chances', link: 'https://squad.royaleapi.com/other/mega_chances.html' },
-              { text: 'General Tips', link: 'https://squad.royaleapi.com/other/tips.html' },
-              { text: 'Additional Resources', link: 'https://squad.royaleapi.com/other/resources.html' }
+              { text: 'Chest Cycle', link: 'https://squad.royaleapi.com/' },
+              { text: 'Chest Sizes', link: 'https://squad.royaleapi.com/' },
+              { text: 'Chest Prices', link: 'https://squad.royaleapi.com/' },
+              { text: 'World Progression', link: 'https://squad.royaleapi.com/' },
+              { text: 'Mega Drop Chances', link: 'https://squad.royaleapi.com/' },
+              { text: 'General Tips', link: 'https://squad.royaleapi.com/' },
+              { text: 'Additional Resources', link: 'https://squad.royaleapi.com/' }
             ]
           }
         ]
