@@ -7,7 +7,7 @@ hero:
   tagline: now on squad.royaleapi.com!
   image:
     src: /logo_alpe_x_royaleapi_1.png
-    alt: Alpe
+    alt: Alpe x RoyaleAPI
   actions:
     - theme: brand
       text: Go to squad.royaleapi.com

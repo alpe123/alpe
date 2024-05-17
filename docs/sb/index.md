@@ -4,47 +4,51 @@ layout: home
 
 hero:
   name: Alpe
-  text: Squad Up!
-  tagline: with unique stats for your battles.
+  text: x RoyaleAPI
+  tagline: now on squad.royaleapi.com!
   image:
-    src: /Squad_Logo_Original.png
-    alt: Alpe
+    src: /logo_alpe_x_royaleapi_1.png
+    alt: Alpe x RoyaleAPI
+  actions:
+    - theme: brand
+      text: Go to squad.royaleapi.com
+      link: "https://squad.royaleapi.com/"
 
 features:
   - title: Maps
     details: Find about the chests, boxes and structure of all the maps. <img src="/alpe/sb_front_maps.png" style="width:300px;height:100px ;">
-    link: /sb/maps
+    link: "https://squad.royaleapi.com/"
     image: /Squad_Logo_Original.png
   - title: Troops
     details: Compare the HP and DPS of troops to build the best squad. <img src="/alpe/sb_front_troops.png" style="width:300px;height:100px ;">
-    link: /sb/troops
+    link: "https://squad.royaleapi.com/"
   - title: Monsters
     details: Stats for all the enemies and bosses you'll find in battles. <img src="/alpe/sb_front_monsters.png" style="width:300px;height:100px ;">
-    link: /sb/monsters
+    link: "https://squad.royaleapi.com/"
   - title: Chest Cycle
     details: Cycle stats and how to know the rarity of your next chest. <img src="/alpe/sb_front_cycle_2.png" style="width:300px;height:100px ;">
-    link: /sb/chest_cycle
+    link: "https://squad.royaleapi.com/"
   - title: Chest Sizes
     details: Basic information about chest sizes, streaks and bonus taps. <img src="/alpe/sb_front_sizes.png" style="width:300px;height:100px ;">
-    link: /sb/chest_sizes
+    link: "https://squad.royaleapi.com/"
   - title: World Progression
     details: Overview of Squad Level progression based on Portal Energy. <img src="/alpe/sb_front_worlds.png" style="width:300px;height:100px ;">
-    link: /sb/progression_worlds
+    link: "https://squad.royaleapi.com/"
   - icon:
       src: /appicon_sb_2cs.png
     title: Mega Drop Chances
     details: Probability to get Mega troops from a chest during battles.
-    link: /sb/mega_chances
+    link: "https://squad.royaleapi.com/"
   - icon:
       src: /appicon_sb_2cs.png
     title: General Tips
     details: Do you know all of them? 
-    link: /sb/tips
+    link: "https://squad.royaleapi.com/"
   - icon:
       src: /appicon_sb_2cs.png
     title: Additional Resources
     details: Several links, tools and resources to external pages.
-    link: /sb/resources
+    link: "https://squad.royaleapi.com/"
 ---
 
 <style>
